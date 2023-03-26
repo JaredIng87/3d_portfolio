@@ -17,7 +17,8 @@ import reactjs from "./tech/reactjs.png";
 import tailwind from "./tech/tailwind.png";
 import threejs from "./tech/threejs.svg";
 
-import rutgers from "./company/rutgers.png"
+import rutgers from "./company/rutgers.png";
+import fafj from "./company/fafj.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -45,4 +46,5 @@ export {
   jobit,
   tripguide,
   rutgers,
+  fafj,
 };
