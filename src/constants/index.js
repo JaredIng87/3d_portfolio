@@ -70,10 +70,10 @@ import {
       name: "React JS",
       icon: reactjs,
     },
-    // {
-    //   name: "Tailwind CSS",
-    //   icon: tailwind,
-    // },
+    {
+      name: "Tailwind CSS",
+      icon: tailwind,
+    },
     {
       name: "Node JS",
       icon: nodejs,
@@ -82,10 +82,10 @@ import {
       name: "MongoDB",
       icon: mongodb,
     },
-    // {
-    //   name: "Three JS",
-    //   icon: threejs,
-    // },
+    {
+      name: "Three JS",
+      icon: threejs,
+    },
     {
       name: "git",
       icon: git,
@@ -94,7 +94,7 @@ import {
   
   const experiences = [
     {
-      title: "Certificate, Full Stack Web Design",
+      title: "Certificate, Full Stack Web Development",
       company_name: "Rutgers University",
       icon: rutgers,
       iconBg: "#383E56",
