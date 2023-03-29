@@ -20,9 +20,8 @@ import threejs from "./tech/threejs.svg";
 import rutgers from "./company/rutgers.png";
 import fafj from "./company/fafj.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import noteTaker from "./noteTaker.png";
+import coffee from "./coffee.png";
 
 export {
   logo,
@@ -42,9 +41,8 @@ export {
   reactjs,
   tailwind,
   threejs,
-  carrent,
-  jobit,
-  tripguide,
   rutgers,
   fafj,
+  noteTaker, 
+  coffee,
 };
