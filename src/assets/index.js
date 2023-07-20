@@ -16,6 +16,7 @@ import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import tailwind from "./tech/tailwind.png";
 import threejs from "./tech/threejs.svg";
+import python from "./tech/python.png";
 
 import rutgers from "./company/rutgers.png";
 import fafj from "./company/fafj.png";
@@ -45,4 +46,5 @@ export {
   fafj,
   noteTaker, 
   coffee,
+  python,
 };

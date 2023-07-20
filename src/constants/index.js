@@ -16,6 +16,7 @@ import {
     fafj,
     noteTaker,
     coffee,
+    python,
   } from "../assets";
   
   export const navLinks = [
@@ -88,6 +89,10 @@ import {
     {
       name: "git",
       icon: git,
+    },
+    {
+      name: "python",
+      icon: python,
     },
   ];
   
