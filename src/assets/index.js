@@ -20,6 +20,7 @@ import python from "./tech/python.png";
 
 import rutgers from "./company/rutgers.png";
 import fafj from "./company/fafj.png";
+import beebe from "./company/beebe.jpg";
 
 import noteTaker from "./noteTaker.png";
 import coffee from "./coffee.png";
@@ -47,4 +48,5 @@ export {
   noteTaker, 
   coffee,
   python,
+  beebe
 };

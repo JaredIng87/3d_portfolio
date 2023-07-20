@@ -42,7 +42,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am 35 years old, and i live in Trenton, NJ. i've spent the last 10 years working in the plumbing field, and decided to make a carr=eer change into web development.
+        I am 35 years old, and i live in Trenton, NJ. I've spent the last 10 years working in the plumbing field, and decided to make a carr=eer change into web development.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

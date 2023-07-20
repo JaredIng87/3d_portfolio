@@ -17,6 +17,7 @@ import {
     noteTaker,
     coffee,
     python,
+    beebe
   } from "../assets";
   
   export const navLinks = [
@@ -109,7 +110,17 @@ import {
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
-    }
+    },
+    {
+    title: "Employee",
+    company_name: "Beebe Inc.",
+    icon: beebe,
+    iconBg: "#383E56",
+    date: "October 2017 - Present",
+    points: [
+      "",
+    ],
+  },
   ];
   
   const testimonials = [
