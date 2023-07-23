@@ -12,7 +12,7 @@ const Hero = () => {
         </div>
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>Hi, I'm <span className='text-[#915eff]'>Jared</span></h1>
-          <p className={`${styles.heroSubText} mt-2 text-white-100`}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+          <p className={`${styles.heroSubText} mt-2 text-white-100`}>I'm an aspiring web development professional based in Trenton, New Jersey. Here you can read about my history and experience, as well as view some of my past projects. Feel free to contact me with any questions.  </p>
         </div>
       </div>
 
