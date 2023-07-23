@@ -14,6 +14,7 @@ function Footer() {
     <div className='social'>
       <SocialIcon className='social' url="https://github.com/JaredIng87"  bgColor="#3a3a3a"/>
       </div>
+      <p>2023</p>
       </footer>
     </div>
   );
