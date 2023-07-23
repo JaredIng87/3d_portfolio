@@ -1,8 +1,4 @@
 import {
-    mobile,
-    backend,
-    creator,
-    web,
     javascript,
     html,
     css,
@@ -31,25 +27,6 @@ import {
     {
       id: "contact",
       title: "Contact",
-    },
-  ];
-  
-  const services = [
-    {
-      title: "Web Developer",
-      icon: web,
-    },
-    {
-      title: "React Native Developer",
-      icon: mobile,
-    },
-    {
-      title: "Backend Developer",
-      icon: backend,
-    },
-    {
-      title: "Full Stack Developer",
-      icon: creator,
     },
   ];
   
@@ -168,4 +145,4 @@ import {
     },
   ];
   
-  export { services, technologies, experiences, testimonials, projects };
+  export {  technologies, experiences, testimonials, projects };
